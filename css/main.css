@@ -235,13 +235,8 @@ left:80px
 #linkList h3.select{
 width:142px;
 height:29px;
-background:url("select.png") no-repeat;
-position:relative;
-left:8px;
-top:8px
 }
 #linkList h3.select span{
-display:none
 }
 #linkList h3.archives{
 width:74px;
